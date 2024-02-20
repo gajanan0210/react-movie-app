@@ -1,3 +1,17 @@
+# React Movie App
+
+This is a simple movie app built using React. It allows users to browse a list of movies, search for specific movies, and view details about each movie.
+
+## Getting Started
+
+To get started with this project, clone the repository and run the following commands:
+
+```bash
+npm install
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
